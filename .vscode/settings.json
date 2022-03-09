@@ -1,0 +1,12 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "prettier.withNodeModules": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "editor.trimAutoWhitespace": true,
+  "prettier.endOfLine": "auto",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
